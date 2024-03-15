@@ -1,4 +1,5 @@
 ---Tor Ghost---
+![g1](https://github.com/Nebur22/Tor-Ghost/assets/55068123/49e46f08-d87c-4443-96c1-6c61328296c6)
 
 Cambiador de MAC y Anonimizador
 
