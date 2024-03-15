@@ -40,7 +40,7 @@ Después de cambiar la dirección MAC, el script te pedirá que ingreses una lis
 
 ![g6](https://github.com/Nebur22/Tor-Ghost/assets/55068123/0dc0186d-ec97-47a6-8169-ba97cc4179b5)
 
-![g5](https://github.com/Nebur22/Tor-Ghost/assets/55068123/e65d8f3c-5ff1-4e37-8941-57c5ea662133)
+
 
 *****
 3. Modo Paranoico:
