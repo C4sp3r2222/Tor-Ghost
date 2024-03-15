@@ -18,6 +18,10 @@ Después de completar el modo seleccionado, el script proporciona instrucciones 
 
 Ejecucion:---------------------------------------------------
 
+-Da permisos de ejecución:
+> chmod +x torghost.py
+
+-Ejecuta:
 > sudo python3 torghost.py
 
 
