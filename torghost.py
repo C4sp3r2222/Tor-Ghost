@@ -1,6 +1,6 @@
 #!/usr/bin/env python3 
-
-# Ejecutar con sudo: sudo python3 torghost.py
+# Antes de ejecutar asignar permisos de ejecucion: > chmod +x torghost.py
+# Ejecutar con sudo: > sudo python3 torghost.py
 import subprocess
 import time
 import sys
