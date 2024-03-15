@@ -1,6 +1,20 @@
----Tor Ghost---
+---Tor Ghost---  
 
-![g1](https://github.com/Nebur22/Tor-Ghost/assets/55068123/49e46f08-d87c-4443-96c1-6c61328296c6)
+                           ..,,;;;;;;,,,,
+                     .,;'';;,..,;;;,,,,,.''';;,..
+                 ,,''                    '';;;;,;''
+                ;'       ,;@@;'  ,@@;, @@, ';;;@@;,;';.
+               ''     ,;@@@@@'  ;@@@@; ''    ;;@@@@@;;;;
+                     ;;@@@@@;    ''''    .,,;;;@@@@@@@;;;
+                    ;;@@@@@@;           , ';;;@@@@@@@@;;;.
+                     '';@@@@@,.  ,   .   ',;;;@@@@@@;;;;;;
+                        .   '';;;;;;;;;,;;;;@@@@@;;' ,.:;'
+                         ''..,,      ''''    '  .,;'
+                                ''''''::
+
+
+![g1](https://github.com/Nebur22/Tor-Ghost/assets/55068123/7a90a150-2a7e-4ea4-88ba-59b55a94840e)
+
 
 Cambiador de MAC y Anonimizador
 
@@ -12,10 +26,15 @@ El script guía al usuario a través de los pasos necesarios en cada modo, como 
 Después de completar el modo seleccionado, el script proporciona instrucciones adicionales, como cómo detener TOR si es necesario y cómo reiniciar el proceso de anonimización si se utiliza el modo paranoico.
 ¡Con este script, puedes proteger tu privacidad en línea y navegar de forma más segura y anónima por la web!
 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-Modos de Funcionamiento:
+Ejecucion:---------------------------------------------------
+
+> sudo python3 torghost.py
 
 
+Modos de Funcionamiento:-------------------------------------
+*****
 1. Tor Normal:
 
 Este modo utiliza la red TOR para enrutar tu tráfico a través de una serie de nodos anónimos, lo que oculta tu ubicación geográfica y dirección IP original.
@@ -25,6 +44,7 @@ Al seleccionar este modo, el script te guiará a través de los pasos para cambi
 
 ![g3](https://github.com/Nebur22/Tor-Ghost/assets/55068123/363e6690-d981-46fe-b36d-1f02b26d6292)
 
+*****
 2. Tor + Proxys:
 
 Este modo va un paso más allá al permitirte configurar proxies SOCKS5 adicionales para mejorar aún más tu anonimato.
@@ -34,7 +54,7 @@ Después de cambiar la dirección MAC, el script te pedirá que ingreses una lis
 
 ![g5](https://github.com/Nebur22/Tor-Ghost/assets/55068123/e65d8f3c-5ff1-4e37-8941-57c5ea662133)
 
-
+*****
 3. Modo Paranoico:
 
 Diseñado para usuarios que buscan el máximo nivel de anonimato y privacidad en línea.
@@ -44,6 +64,8 @@ Este modo cambia periódicamente la dirección MAC de tu dispositivo, reinicia T
 
 ![g8](https://github.com/Nebur22/Tor-Ghost/assets/55068123/7248caee-39d9-49e9-8e01-062667f5d9f4)
 
+
+*****
 Podemos comprobar que nuestra IP cambia cada X minutos que le hallamos especificado en paginas como: www.whatsmyip.com
 
 
